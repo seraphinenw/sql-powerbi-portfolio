@@ -1,0 +1,14 @@
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+
+# SSMS temp files
+*.sql~
+*.sql.bak
+
+# Power BI
+*.pbix.user
+datasets/ 
